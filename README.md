@@ -1,4 +1,4 @@
-# Hi there 👋, Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile! 👋
 
 Hi, I'm Thijs!
 

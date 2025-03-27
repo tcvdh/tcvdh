@@ -10,6 +10,8 @@ Hi, I'm Thijs!
 ## Projects
 - **WineLib**: [WineLib](https://github.com/tcvdh/wineLib)
   - Description: A website where people can track their wines.
+- **Snake in ASM**
+  - Description: Snake created completely in Assembly
 
 ## Skills
 - **Languages**: JavaScript, C++, C, ASM, lua

@@ -12,5 +12,5 @@ Hi, I'm Thijs!
   - Description: A website where people can track their wines.
 
 ## Skills
-- **Languages**: JavaScript, C++, HTML, CSS.
+- **Languages**: JavaScript, C++, C, ASM, lua
 - **Frameworks**: React, Next.js.

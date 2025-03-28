@@ -12,6 +12,8 @@ Hi, I'm Thijs!
   - Description: A website where people can track their wines.
 - **Snake in ASM**
   - Description: Snake created completely in Assembly
+- **[asm-context.nvim](https://github.com/tcvdh/asm-context.nvim)**
+  - Assembly context plugin for Neovim based on treesitter-context
 
 ## Skills
 - **Languages**: JavaScript, C++, C, ASM, lua

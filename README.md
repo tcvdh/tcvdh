@@ -8,7 +8,7 @@ Hi, I'm Thijs!
 - **Editor**: Neovim enjoyer - check out my [init.lua](https://github.com/tcvdh/init.lua) configuration!
 
 ## Projects
-- **WineLib**: [WineLib](https://github.com/tcvdh/wineLib)
+- **[WineLib](https://github.com/tcvdh/wineLib)**
   - Description: A website where people can track their wines.
 - **Snake in ASM**
   - Description: Snake created completely in Assembly

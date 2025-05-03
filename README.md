@@ -6,6 +6,7 @@ Hi, I'm Thijs!
 - **Current Studies**: First-year Computer Science student at VU Amsterdam.
 - **Interests**: Software Development, Web Development, Back-end Development.
 - **Editor**: Neovim enjoyer - check out my [init.lua](https://github.com/tcvdh/init.lua) configuration!
+- **OS**: Arch Linux | MacOS - [Arch Dotfiles](https://github.com/tcvdh/Dotfiles)
 
 ## Projects
 - **[WineLib](https://github.com/tcvdh/wineLib)**

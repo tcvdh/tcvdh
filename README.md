@@ -4,7 +4,7 @@ Low-level elitist. C and Assembly purist. If it isn't manual memory management, 
 
 ## About Me
 - **Current Studies**: Second-year Bsc Computer Science Honours student at VU Amsterdam.
-- **Interests**: Software Development, Web Development, Back-end Development.
+- **Interests**: Software Development, low level OS dev, Back-end Development.
 - **Editor**: Neovim enjoyer - check out my [init.lua](https://github.com/tcvdh/init.lua) configuration!
 - **OS**: Arch Linux | MacOS - [Arch Dotfiles](https://github.com/tcvdh/Dotfiles)
 

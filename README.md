@@ -15,7 +15,7 @@ Low-level elitist. C and Assembly purist. If it isn't manual memory management, 
   - Description: Snake created completely in Assembly
 - **[asm-context.nvim](https://github.com/tcvdh/asm-context.nvim)**
   - Assembly context plugin for Neovim based on treesitter-context
-- **[MT-KERNEL](https://github.com/MT-systems-lab/MT-kernel)
+- **[MT-KERNEL](https://github.com/MT-systems-lab/MT-kernel)**
   - OS in development by me and Matthijs
 
 ## Skills

@@ -1,12 +1,13 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi, I'm Thijs!
+Low-level elitist. C and Assembly purist. If it isn't manual memory management, I don't want it. Python is just overhead.
 
 ## About Me
 - **Current Studies**: Second-year Bsc Computer Science Honours student at VU Amsterdam.
 - **Interests**: Software Development, Web Development, Back-end Development.
 - **Editor**: Neovim enjoyer - check out my [init.lua](https://github.com/tcvdh/init.lua) configuration!
 - **OS**: Arch Linux | MacOS - [Arch Dotfiles](https://github.com/tcvdh/Dotfiles)
+- **MT-KERNEL**: OS in development by me and Matthijs - [MT-Kernel](https://github.com/MT-systems-lab/MT-kernel)
 
 ## Projects
 - **[WineLib](https://github.com/tcvdh/wineLib)**

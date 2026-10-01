@@ -1,0 +1,27 @@
+name: GitWorld
+
+on:
+  schedule:
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+jobs:
+  gitworld:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      # pinned to a reviewed commit of my fork; bump the SHA deliberately
+      - uses: tcvdh/git-world-action@9703865dae5d2e3da1ce2604938d1d749a7c34aa
+        with:
+          github_user_name: tcvdh
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          svg_out_path: dist/gitworld.svg
+      - name: Commit SVGs
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist
+          git diff --cached --quiet || git commit -m "Update GitWorld"
+          git push

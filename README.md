@@ -1,23 +1,34 @@
-# Welcome to My GitHub Profile! 👋
+<div align="center">
 
-Low-level elitist. C and Assembly purist. If it isn't manual memory management, I don't want it. Python is just overhead.
+# Hey, I'm Thijs 👋
 
-## About Me
-- **Current Studies**: Second-year Bsc Computer Science Honours student at VU Amsterdam.
-- **Interests**: Software Development, low level OS dev, Back-end Development.
-- **Editor**: Neovim enjoyer - check out my [init.lua](https://github.com/tcvdh/init.lua) configuration!
-- **OS**: Arch Linux | MacOS - [Arch Dotfiles](https://github.com/tcvdh/Dotfiles)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=88C0D0&center=true&vCenter=true&width=600&lines=Low-level+elitist.;C+and+Assembly+purist.;Manual+memory+management+or+nothing.;Python+is+just+overhead." alt="Typing animation">
+
+</div>
+
+## About me
+- 🎓 Third-year BSc Computer Science (Honours) student at **VU Amsterdam**
+- 🧑‍🏫 Teaching assistant for **Computer Organisation (CO)** and **Computer Networks (CN)** at VU Amsterdam CS
+- 🔧 Interested in software development, low-level OS dev and back-end development
+- ⌨️ Neovim enjoyer: my config is [init.lua](https://github.com/tcvdh/init.lua)
+- 🐧 Arch Linux (Hyprland + Quickshell) | macOS: [Dotfiles](https://github.com/tcvdh/Dotfiles)
+
+## Tech
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,lua,js,ts,react,nextjs,neovim,arch,linux,git" alt="Tech icons">
+  <img src="https://img.shields.io/badge/ASM-x86__64-4C566A?style=for-the-badge" alt="ASM">
+</p>
 
 ## Projects
-- **[WineLib](https://github.com/tcvdh/wineLib)**
-  - Description: A website where people can track their wines.
-- **Snake in ASM**
-  - Description: Snake created completely in Assembly
-- **[asm-context.nvim](https://github.com/tcvdh/asm-context.nvim)**
-  - Assembly context plugin for Neovim based on treesitter-context
 - **[MT-KERNEL](https://github.com/MT-systems-lab/MT-kernel)**
-  - OS in development by me and Matthijs
-
-## Skills
-- **Languages**: JavaScript, C++, C, ASM, lua
-- **Frameworks**: React, Next.js.
+  - An OS in development, built together with Matthijs
+- **[asm-context.nvim](https://github.com/tcvdh/asm-context.nvim)**
+  - Assembly context plugin for Neovim, based on treesitter-context
+- **[bonnetje](https://github.com/tcvdh/bonnetje)**
+  - Split supermarket receipts between housemates, self-hosted
+- **[WineLib](https://github.com/tcvdh/wineLib)**
+  - A website where people can track and rate their wines
+- **Snake in ASM**
+  - Snake created completely in Assembly
+- **[Dotfiles](https://github.com/tcvdh/Dotfiles)**
+  - My Arch + Hyprland setup with a custom Quickshell bar and launcher

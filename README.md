@@ -32,3 +32,12 @@
   - Snake created completely in Assembly
 - **[Dotfiles](https://github.com/tcvdh/Dotfiles)**
   - My Arch + Hyprland setup with a custom Quickshell bar and launcher
+
+## My GitWorld
+<div align="center">
+
+![GitWorld](https://raw.githubusercontent.com/tcvdh/tcvdh/main/dist/gitworld.svg)
+
+<sub>Each building is a week of my contributions, and taller means more commits. The label shows my commit total and current streak. It's redrawn daily by a [GitHub Action](https://github.com/tcvdh/git-world-action).</sub>
+
+</div>
